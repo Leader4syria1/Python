@@ -1,0 +1,7 @@
+oa
+telebos
+types
+subprocess
+re
+sys
+psutil
